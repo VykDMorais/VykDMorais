@@ -16,6 +16,7 @@ This is my README, so, i will tell you some facts about me!
 😄 Pronouns: any pronouns
 ⚡ Fun fact: ...
 
-### My other repositories:
+### My repositories:
+https://github.com/VykDMorais/VykDMorais
 https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---C-Programming
 https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---Python-Programming
