@@ -1,4 +1,4 @@
-Hi there 👋
+###Hi there 👋
 This is my README, so, i will tell you some facts about me!
 
 👋 Hi, I’m @VykDMorais
@@ -14,3 +14,7 @@ This is my README, so, i will tell you some facts about me!
 📫 How to reach me: ...
 😄 Pronouns: any pronouns
 ⚡ Fun fact: ...
+
+###My other repositories:
+https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---C-Programming
+https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---Python-Programming
