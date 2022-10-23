@@ -36,4 +36,5 @@ https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---Python-Programmi
 
 ### Some sources:
 C Programming:
-Python Programming: file:///C:/Users/Aluno/Downloads/Apostila_Allan_Python.pdf
+Python Programming: https://github.com/VykDMorais/VykDMorais/files/9847807/Apostila_Allan_Python.1.pdf
+
