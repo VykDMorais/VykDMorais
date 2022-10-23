@@ -35,6 +35,6 @@ https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---C-Programming
 https://github.com/VykDMorais/CEFET-s-integrated-mechatronics---Python-Programming
 
 ### Some sources:
-C Programming:
+C Programming: https://github.com/VykDMorais/VykDMorais/files/9847808/introducao_c_renatocm_deeufmg.1.pdf
 Python Programming: https://github.com/VykDMorais/VykDMorais/files/9847807/Apostila_Allan_Python.1.pdf
 
