@@ -4,17 +4,19 @@ This is my README, so, i will tell you some facts about me!
 
 👋 Hi, I’m @VykDMorais
 
-👀 I’m interested in mechatronics and communism :)
+☭ hasta la vista siempre. Patria o muerte.
 
-🌱 I’m currently learning mechatronics and communism :)
+👀 I’m interested in mechatronics engineering, languages, nuclear engineering and communism :)
 
-💞️ I’m looking to collaborate on world using mechatronics knowledge and implementing communism
+🌱 I’m currently learning mechatronics, japanese and communism :)
+
+💞️ I’m looking to collaborate on world using mechatronics engineereing and nuclear engineering knowledge to implement the communist revolution  
 
 📫 How to reach me @VykD12 on twitter
 
-🔭 I’m currently working on ...
+📚 I speak brazilian portuguese, english and a little bit of japanese
 
-🌱 I’m currently learning ...
+🔭 I’m currently working on ...
 
 👯 I’m looking to collaborate on ...
 
@@ -22,7 +24,7 @@ This is my README, so, i will tell you some facts about me!
 
 💬 Ask me about ...
 
-📫 How to reach me: ...
+📫 How to reach me: DM me on twitter
 
 😄 Pronouns: any pronouns
 
