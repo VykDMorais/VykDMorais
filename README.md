@@ -22,13 +22,13 @@ This is my README, so, i will tell you some facts about me!
 
 🤔 I’m looking for help with ...
 
-💬 Ask me about ...
+💬 Ask me about anything
 
 📫 How to reach me: DM me on twitter
 
 😄 Pronouns: any pronouns
 
-⚡ Fun fact: ...
+⚡ Fun facts: I love rock, but im eclectic. Also, i like goth culture, animes, books, movies, gym, study, culture and different and politically active people
 
 
 ### My repositories:
